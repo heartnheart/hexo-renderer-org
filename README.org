@@ -25,7 +25,7 @@ Hexo renderer plugin for emacs org-mode
 Cd to your hexo blog.Run
 
 #+BEGIN_SRC shell
-npm install https://github.com/CodeFalling/hexo-renderer-org#emacs --save
+npm install https://github.com/hearntheart/hexo-renderer-org#emacs --save
 #+END_SRC
 
 You can also install it from npm,too.
